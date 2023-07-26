@@ -1,2 +1,2 @@
-<img src="assets/one.png">
-<img src="assets/two.png">
+<img src="Assets/one.png">
+<img src="Assets/two.png">
